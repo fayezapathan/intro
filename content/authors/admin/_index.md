@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Fayeza Pathan
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Fayeza
+last_name: Pathan
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Marketing, Communication and Brand Management Professional 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,40 +31,37 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:fayeza.p12@bkmiba.edu.in'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/fayezapathan
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/fayezapat
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/fayezapathan
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/](https://in.linkedin.com/in/fayeza-pathan-240095113
+    
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Internal and External Communication
+  - Stakeholder Engagement
+  - Investor Relations and Management
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master of Arts in Development Communication
+    institution: Jamia Millia Islamia
+    date_start: 2013-06-01
+    date_end: 2015-6-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelors in Business Administration 
+    institution: BKMIBA University
+    date_start: 2009-06-01
+    date_end: 2012-5-31
     summary: |
       GPA: 3.8/4.0
 
